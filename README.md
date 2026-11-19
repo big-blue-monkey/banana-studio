@@ -14,7 +14,7 @@
 
 1.小型项目/资源存在main的下面
 
-2.中型项目存在fork下
+2.中型项目存在branches下
 
 3.大型项目单列成仓库
 
@@ -38,7 +38,7 @@ A studio formed by computer enthusiasts from Class 5, Grade 2022.
 
 1. Small projects/resources are stored under main
 
-2. Medium-sized projects are stored under fork
+2. Medium-sized projects are stored under branches
 
 3. Large projects are listed as separate repositories
 
